@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\T1_MENDOZA_FELIPE.props" />
+</Project>
